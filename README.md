@@ -1,8 +1,8 @@
-#Employee Management System
+Employee Management System
 
 This Java-based Employee Management System enables users to manage employee records through a user-friendly GUI. Features include adding, removing, updating, and viewing employee details, as well as a login system to restrict access.
 
-#Features
+Features
 
 Splash Screen: Displays a brief loading screen when the application starts.
 Login: Authenticates users before allowing access to employee management features.
@@ -12,7 +12,7 @@ Remove Employee (RemoveEmployee.java): Provides functionality to delete employee
 Update Employee (updateEmployee.java): Enables users to modify existing employee details.
 View Employee (View_employee.java): Displays stored employee information in a readable format.
 
-#Files
+Files
 
 splash.java: Launches the splash screen.
 login.java: Manages user authentication.
@@ -23,7 +23,7 @@ updateEmployee.java: Updates existing employee information.
 View_employee.java: Displays employee records.
 conn.java: Connects to the MySQL database.
 
-#Installation
+Installation
 
 1.Clone the repository:
 
@@ -50,7 +50,7 @@ Start the application from splash.java:
 
 java employee.management.system.splash
 
-#Usage
+Usage
 
 1. Login: Begin by logging in.
 2. Main Dashboard: Use the dashboard to navigate features:
@@ -59,7 +59,7 @@ Remove Employee: Enter the employee ID to delete a record.
 Update Employee: Modify details of an existing employee.
 View Employee: View a list of all employees.
 
-#Technologies Used
+Technologies Used
 
 Java Swing for GUI
 MySQL for database management
